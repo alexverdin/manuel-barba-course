@@ -1,2 +1,3 @@
-# Vite patient-manager
-## 1st Project in Juan Pablo de la Torre Udemy's course.
+# Manuel Barba - Personal Course
+## Extracurricular Classes imparted by our co-worker and friend: Manuel Barba
+
