@@ -7,7 +7,7 @@ const Home = () => {
 
   return (
     <div>
-        <Title title="Home" fontColor="purple"/>
+        <Title title="Home" fontColor="green"/>
 
         <Link to={'/login'}>Go to Login</Link>
         <br/> 

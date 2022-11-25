@@ -8,7 +8,7 @@ const ShowInformation = () => {
 
   return (
     <div>
-        <Title title="Show the information" fontColor="cyan"/>
+        <Title title="Show the information" fontColor="blue"/>
         
         <span>The user id is: {nombre}</span>
         <br />
